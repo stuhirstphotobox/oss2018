@@ -15,7 +15,6 @@ status       : review-content              # draft, review-content, done
 description  : Hand-on session on creating the OWASP responsible disclosure Maturity Model
 organizers   :
     - Sotiraki Sima
-    - Stu Hirst
 participants :
     - Ann-Marie Grace
 ---
