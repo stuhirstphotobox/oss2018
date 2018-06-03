@@ -17,7 +17,6 @@ status       : draft              # draft, review-content, done
 description  : Hands on session on how to integrate securityheaders.com in CI pipeline
 organizers   :
 participants :
-    - Stu Hirst
     - David Cervigni
     - Toby Shelswell
 ---
