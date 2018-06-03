@@ -19,7 +19,6 @@ organizers   :
   - Avi Douglen
   - Nuno Oliveira
 participants :
-    - Stu Hirst
     - David Cervigni
     - Toby Shelswell
 ---
